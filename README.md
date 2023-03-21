@@ -1,5 +1,5 @@
 # launchSequence
-A short project I made to make logging onto work a little easier :)
+A short project I made to make logging onto work a little easier :) - note there are two different versions for Mac and Windows
 
 
 This Python script opens multiple URLs in Google Chrome and launches Discord using the OS module. It uses the webbrowser and os libraries to accomplish these tasks.
