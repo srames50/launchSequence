@@ -11,11 +11,11 @@ After opening the tabs, the script launches Discord using the OS module's startf
 Usage
 Install Python: Before running this script, you'll need to have Python installed on your computer. You can download Python from the official website: https://www.python.org/downloads/
 
-Install required libraries: The script uses two libraries, webbrowser and os, which are typically included in standard Python installations. If you don't have these libraries installed, you can install them using pip, the Python package installer, by running the following commands in your command prompt or terminal:
+The script uses two libraries, webbrowser and os, which are typically included in standard Python installations. If you don't have these libraries installed, you can install them using pip, the Python package installer, by running the following commands in your command prompt or terminal:
 
 pip install webbrowser
 pip install os-sys
 
-Modify URLs and Discord path (optional): If you want to open different URLs in Chrome or launch a different program with the OS module, you can modify the values in the "urls" and "command" variables accordingly.
+Modify URLs and Discord path: If you want to open different URLs in Chrome or launch a different program with the OS module, you can modify the values in the "urls" and "command" variables accordingly.
 
-Run the script: Save the code in a Python file (e.g., open_tabs.py) and run it by typing "python open_tabs.py" in your command prompt or terminal. The script will open the URLs in new tabs in Chrome and launch Discord.
+Save the code in a Python file (e.g., open_tabs.py) and run it by typing "python open_tabs.py" in your command prompt or terminal. The script will open the URLs in new tabs in Chrome and launch Discord.
