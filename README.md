@@ -1,7 +1,7 @@
 # launchSequence
 A short project I made to make logging onto work a little easier :)
 
-Description
+
 This Python script opens multiple URLs in Google Chrome and launches Discord using the OS module. It uses the webbrowser and os libraries to accomplish these tasks.
 
 The URLs are stored in a list named "urls," and the for loop iterates through each URL and opens them in new tabs in the Chrome browser. Add the URL's that you want to open into the list. 
